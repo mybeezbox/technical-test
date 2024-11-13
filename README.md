@@ -24,6 +24,6 @@ If you have questions about the test, don't hesitate to reach out to us 📧
 
 We will take a look at your submission as soon as we're able. Again, we value your time.  
 If we decide not to move forward, we will let you know via email. We will try and include feedback regarding the code you sent.  
-If we decide to move forward, you will be invited to a 1h interview. We will go over your submission, ask questions, talk about your choices, think about what you could do if you had more time, etc.
+If we decide to move forward, you will be invited to a 90 minutes interview. We will go over your submission, ask questions, talk about your choices, think about what you could do if you had more time, etc.
 
 Looking forward to hearing from you :v:
